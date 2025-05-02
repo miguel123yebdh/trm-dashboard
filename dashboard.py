@@ -30,7 +30,7 @@ Works on Python 3.12 or higher.
 
     Source code:
 
-            ******************************
+            https://github.com/gtmadureira/trm-dashboard/blob/main/dashboard.py
 
 
     Author information:
