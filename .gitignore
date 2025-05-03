@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 # Access Token and API Information
-
-tkn_api/
+secrets/
+trmarazzatto_api_token
