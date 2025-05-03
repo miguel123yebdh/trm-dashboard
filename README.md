@@ -1,9 +1,9 @@
 
 ## <img src="./images/trm_logo.png" width="225" height="225" alt="Logo" align="left"> T.R. MARAZZATTO DASHBOARD
 
-🇺🇸 Automated program for creating panels, in order to present the performance of PMOC and other services, from the company T.R. MARAZZATTO to industries such as Unilever.
+🇺🇸 Automated program for creating panels, in order to present the performance of PMOC and other Services, from the company T.R. MARAZZATTO to industries such as Unilever.
 
-🇧🇷 Programa automatizado para criação de painéis, com o objetivo de apresentar o desempenho do PMOC e outros serviços, da empresa T.R. MARAZZATTO para indústrias como a Unilever.
+🇧🇷 Programa automatizado para criação de painéis, com o objetivo de apresentar o desempenho do PMOC e outros Serviços, da empresa T.R. MARAZZATTO para indústrias como a Unilever.
 
 
 
