@@ -22,6 +22,7 @@
 ## Dependencies
 
 ### [Python 3.12](https://www.python.org/downloads/) or higher
+### [Git 2.43](https://git-scm.com/downloads) or higher
 
 [?????? Module](https://pypi.org/project/??????/):
 
