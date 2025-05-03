@@ -1,5 +1,5 @@
 
-# <img src="./images/trm_logo.png" width="225" height="225" alt="Logo" align="left"> T.R. MARAZZATTO DASHBOARD
+## <img src="./images/trm_logo.png" width="225" height="225" alt="Logo" align="left"> T.R. MARAZZATTO DASHBOARD
 
 🇺🇸 Automated program for creating panels, in order to present the performance of PMOC and other services, from the company T.R. MARAZZATTO to industries such as Unilever.
 
