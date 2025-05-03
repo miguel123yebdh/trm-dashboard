@@ -3,7 +3,7 @@
 
 [ LICENSE ]  ( Apache License Version 2.0 )  :
 
-Copyright [2025] [Gustavo Madureira]
+Copyright [ 2025 ] [ Gustavo Madureira ]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -20,10 +20,11 @@ limitations under the License.
 
 [ ABOUT ]  :
 
-Dashboard program for presenting performance, PMOC and other services,
-from the company T.R. MARAZZATTO (HVAC-R).
+Automated program for creating panels, in order to present the performance
+of PMOC and other Services, from the company T.R. MARAZZATTO to industries
+such as Unilever and others.
 
-*** For internal use only.
+*** FOR INTERNAL PURPOSES ONLY ***
 
 Works on Python 3.12 or higher.
 
