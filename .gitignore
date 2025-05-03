@@ -175,4 +175,3 @@ cython_debug/
 
 # Access Token and API Information
 secrets/
-trmarazzatto_api_token

@@ -1,0 +1,10 @@
+# This is a placeholder for the access token.
+# The access token is used to authenticate requests to the API.
+# Make sure to keep this token secure and do not share it publicly.
+# It is recommended to use environment variables or secure vaults to store sensitive information like access tokens.
+# The access token is a string that is used to authenticate requests to the API.
+
+# Access token should be updated here.
+your_actual_access_token
+
+# Ensure to replace 'your_actual_access_token' with your actual token.
